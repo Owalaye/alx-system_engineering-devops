@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod ls -R ugo+x
